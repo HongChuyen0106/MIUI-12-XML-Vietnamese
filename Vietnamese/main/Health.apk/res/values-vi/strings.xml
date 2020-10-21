@@ -923,7 +923,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="device_description">"Thiết bị này được liên kết với Tài khoản Mi %s. Nếu bạn không thể tìm thấy thiết bị mình cần, thêm trong Mi Fit hoặc Xiaomi Wear."</string>
 	<string name="go_on">Tiếp tục</string>
 	<string name="tb_sleep_ring_info">%1$s. Ngủ: %2$s. Chạm để xem chi tiết.</string>
-	<string name="cycle">Chu kỳ</string>
+	<string name="cycle">Đạp xe</string>
 	<string name="getUp_time_normal_description">Bạn thức dậy đúng giờ. Hãy phát huy nhé!</string>
 	<string name="tb_stand_day_column_click">Bạn đã hoàn thành mục tiêu giữa %1$s và %2$s. Nguồn: %3$s.</string>
 	<string name="tb_detection_subpage_last_info">Trang %1$d của mô tả. Trang cuối.</string>
